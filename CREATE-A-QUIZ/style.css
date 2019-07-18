@@ -1,0 +1,33 @@
+html: {
+ 
+}
+
+body {
+    background-color: rgba(255, 253, 253, 1);
+    background: rgb(9, 120, 124)
+    
+}
+h1 , h2 {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 20px;
+    color:
+}
+p, li{
+    font-family:  'Roboto', sans-serif;
+}
+#laserdisc-text{
+    color: rgb(36, 36, 206)
+}
+
+#punk-text {
+  color:rgb(214, 89, 183)  
+}    #source-text {
+    color: rgb(218, 145, 11)
+}
+#sleater-kinney-text{
+    color:rgb(82, 29, 117)
+}
+#answer-btn{
+    
+}
+
